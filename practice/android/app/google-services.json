@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "138652813239",
+    "project_id": "pineapple-4e249",
+    "storage_bucket": "pineapple-4e249.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138652813239:android:c7b13aeb8bb968e0ee8a32",
+        "android_client_info": {
+          "package_name": "com.example.infinity_corridor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBb22SvG_tXgDNmKnX_in3GpOJqmHPy_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
